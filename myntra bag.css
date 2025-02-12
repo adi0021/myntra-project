@@ -1,0 +1,16 @@
+#Add{
+  background-color: lightgreen;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: none;
+}
+#Move{
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+#Sale{
+  background-color: lightgreen;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: none;
+}
